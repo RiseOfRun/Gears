@@ -530,12 +530,10 @@ MonoBehaviour:
   GearType: 0
   HighLightColor: {r: 1, g: 0, b: 0, a: 1}
   isStatic: 1
-  defaultRotationSpeed: 360
+  defaultRotationSpeed: 180
   movementSpeed: 1000
-  InDrag: 0
   RotationDirection: 0
   moving: 0
-  sr: {fileID: 0}
   collider: {fileID: 0}
   PutSound: {fileID: 5927002685790586207}
   CatchSound: {fileID: 5553395235691542879}
