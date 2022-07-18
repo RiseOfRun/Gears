@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.Serialization;
-
+[SelectionBase]
 public class Gear : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
 {
     public int GearType;
